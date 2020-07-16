@@ -7,7 +7,6 @@ from botocore.exceptions import ClientError
 
 logging.basicConfig(level=logging.INFO)
 
-region = "eu-central-1"
 organisations = boto3.client("organizations")
 
 
