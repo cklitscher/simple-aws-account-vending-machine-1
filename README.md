@@ -12,8 +12,6 @@ The Account Vending machine takes a simple JSON object consisting of arguments. 
 * accountName - The name of the account
 * organisationalUnit - The organisational unit you wish to place the account in
 
-### Author: Patrick Hynes
-
 #### Language: Python
 
 #### Repository Structure:
